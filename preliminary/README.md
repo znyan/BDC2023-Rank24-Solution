@@ -10,6 +10,7 @@
 - scikit_learn==1.2.1
 - tqdm==4.61.2
 - xgboost==1.7.4
+
 依赖包已放入`requirements.txt`中，执行`init.sh`时会完成上述依赖包的安装。
 
 ## 数据
